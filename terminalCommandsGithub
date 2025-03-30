@@ -1,0 +1,16 @@
+GITHUB DESKTOP
+- create a new repository
+    > enter the name of the new repository
+    > change the file path (make sure that it is in the htdocs folder of xampp)
+    > click publish
+    > uncheck the ckeckbox "keep the code private"
+    > click publish repository
+- click "Open in Visual Studio Code"
+
+VISUAL STUDIO CODE
+- Terminal
+    > composer create-project laravel/laravel:^9.0 example-app(Laravel-lang-to)
+    > git add .
+    > git status
+    > git commit -m "New comment"
+    > git push origin HEAD
